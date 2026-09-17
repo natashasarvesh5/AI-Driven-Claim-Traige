@@ -1,0 +1,8 @@
+[
+{"claim_id":"CLM-1001","claim_type":"Auto","description":"Minor bumper damage in parking area, no injury, photos attached","estimated_amount":1800,"location":"Pune","injuries":0,"parties":1,"hours_since_loss":30,"documents_count":3,"prior_claims":0},
+{"claim_id":"CLM-1002","claim_type":"Property","description":"House fire, property currently uninhabitable; emergency accommodation needed","estimated_amount":125000,"location":"Mumbai","injuries":0,"parties":1,"hours_since_loss":3,"documents_count":2,"prior_claims":0},
+{"claim_id":"CLM-1003","claim_type":"Auto","description":"Multiple vehicles, severe injury and hospital admission; liability disputed","estimated_amount":85000,"location":"Nashik","injuries":2,"parties":4,"hours_since_loss":5,"documents_count":4,"prior_claims":1},
+{"claim_id":"CLM-1004","claim_type":"Travel","description":"Baggage theft reported, no witnesses, receipt unverified","estimated_amount":6500,"location":"Goa","injuries":0,"parties":1,"hours_since_loss":18,"documents_count":0,"prior_claims":3},
+{"claim_id":"CLM-1005","claim_type":"Health","description":"Routine outpatient procedure with complete documents","estimated_amount":4200,"location":"Thane","injuries":0,"parties":1,"hours_since_loss":48,"documents_count":5,"prior_claims":0},
+{"claim_id":"CLM-1006","claim_type":"Property","description":"Flood damage to commercial premises and structural assessment required","estimated_amount":67000,"location":"Mumbai","injuries":0,"parties":2,"hours_since_loss":10,"documents_count":2,"prior_claims":1}
+]
